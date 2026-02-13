@@ -319,3 +319,54 @@ header{
     font-size: 16px;
     font-weight: 500;
 }
+#challenge{
+    /* padding-top: 120px; */
+    width: 100%;
+    max-width:1600px ;
+    height: 506px;
+}
+#challenge .challenge-container{
+    background-color: #F7F6F2;
+    width: 85%;
+    max-width: 1360px;
+    margin:0 auto;
+    height: 385px;
+    margin-bottom: 120px;
+    border-radius: 12px;
+    text-align: center;
+}
+.challenge-container h1{
+    color: #001931;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    padding-top:80px;
+}
+.ht{
+    color: #627382;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+.btn-two{
+    background-color:#30B868;
+    width: 194px;
+    height: 52px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 600;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.15);
+    padding: 16.5px 46px 16.5px 16px;
+    cursor: pointer;
+    white-space:nowrap;
+    margin-bottom: 16px;
+}
+.btn-two:hover{
+    background-color: #259856;
+}
+.hit{
+    line-height: 20px;
+    font-size: 16px;
+    color: #627382;
+}
