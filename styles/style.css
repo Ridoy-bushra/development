@@ -47,6 +47,7 @@ nav .btn{
     opacity: 100%;
     padding: 12px 16px;
     margin-bottom: 24px;
+    margin-top: 24px;
 }
 .btn:hover{
     background-color: #259856;
@@ -54,10 +55,9 @@ nav .btn{
 .symbol img{
     height: 60px;
     width: 139px;
-    margin-bottom: 16px;
+    margin-top: 16px;
 }
 header{
-    padding-top: 24px;
     width: 100%;
     max-width: 1600px;
     height: 766px;
